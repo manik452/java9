@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/digitalmedia/digitalmedia.iml" filepath="$PROJECT_DIR$/digitalmedia/digitalmedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functionaldivision/functionaldivision.iml" filepath="$PROJECT_DIR$/functionaldivision/functionaldivision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9.iml" filepath="$PROJECT_DIR$/java9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printmedia/printmedia.iml" filepath="$PROJECT_DIR$/printmedia/printmedia.iml" />
+    </modules>
+  </component>
+</project>
